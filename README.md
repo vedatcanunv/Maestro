@@ -10,4 +10,6 @@
 
 ### Projenin çalışma görüntüsü
 
-![](./src/assets/maestro.gif)
+<img src="./src/assets/maestro.gif" width="300" height="300"/>
+
+
