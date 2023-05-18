@@ -10,6 +10,4 @@
 
 ### Projenin çalışma görüntüsü
 
-<img src="./src/assets/maestro.gif" witdh="%50" height="%50">
-
 ![](./src/assets/maestro.gif)
