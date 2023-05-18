@@ -12,8 +12,8 @@ const Details = ({route}) => {
 
   const tagsStyles = {
     // Fiziksel cihazda çalıştırdığımda html verilerinin okunmama durumu oluyordu bu yüzden renk tanımlamam gerekti
-    p: {color: 'black'}, // <p> etiketi için siyah renk
-    strong: {color: 'red', fontWeight: 'bold'}, // <strong> etiketi için kırmızı renk
+    p: {color: 'black'},
+    strong: {color: 'red', fontWeight: 'bold'},
     h: {color: 'black'},
     ul: {color: 'black'},
     h1: {color: 'black'},
